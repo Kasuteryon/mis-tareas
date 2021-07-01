@@ -1,0 +1,8 @@
+{
+  "name": "Mis Tareas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "eff2a60a"
+}

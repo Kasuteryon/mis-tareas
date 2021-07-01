@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Mis Tareas",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
